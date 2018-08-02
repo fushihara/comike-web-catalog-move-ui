@@ -25,3 +25,5 @@ webカタログ、冊子カタログ、サークル詳細の各ページに青�
 日付、ブロック、表示方法を選んで一番下のGoボタンを押します。
 
 画像はコミケカタログwebページより
+
+![画像](https://raw.githubusercontent.com/fushihara/comike-web-catalog-move-ui/master/resource/imgTemp-2018-08-03-01-53-53.png)
