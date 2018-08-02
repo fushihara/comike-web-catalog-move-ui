@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "fs-extra": "^7.0.0",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/dateformat": "^1.0.1",
+    "@types/fs-extra": "^5.0.4",
+    "@types/node": "^10.5.5",
+    "@types/node-fetch": "^2.1.2",
+    "typescript": "^3.0.1"
+  }
+}
