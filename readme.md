@@ -14,7 +14,7 @@
 
 # 使い方
 
-- ./out/tampermonkey.js のファイルをtampermonkeyにコピペする
+- ./out/tampermonkey.js のファイルをGoogleChromeのtampermonkeyにコピペする
 
 # 画像
 
