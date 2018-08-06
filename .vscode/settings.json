@@ -1,0 +1,4 @@
+{
+  "window.title": "カタログジャンプUI- ${activeEditorMedium}${separator}${rootPath}",
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
